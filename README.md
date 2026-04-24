@@ -1,12 +1,16 @@
-# Nabeel Syed
-### Computer Systems Engineering Student | Embedded AI & Machine Learning
+<div align="center">
+  <img src="banner.png" width="100%">
 
-<p align="left">
+  <h3>Computer Systems Engineering Student | Embedded AI & Machine Learning</h3>
+  <p>Bridging AI research and real-world engineering applications through intelligent, data-driven systems.</p>
+</div>
+
+<p align="center">
   <a href="https://github.com/nabeelsyed14">
-    <img src="https://github-readme-stats.vercel.app/api?username=nabeelsyed14&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7&bg_color=1a1b26" alt="GitHub Stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nabeelsyed14&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7&bg_color=1a1b26" alt="GitHub Stats" height="170px" />
   </a>
   <a href="https://github.com/nabeelsyed14">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed14&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeelsyed14&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=a9b1d6&bg_color=1a1b26" alt="Top Languages" height="170px" />
   </a>
 </p>
 
@@ -62,8 +66,12 @@ I am a **Computer Systems Engineering** student at **Middlesex University Dubai*
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/nabeelsyed14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabeelsyed14" height="30" width="40" /></a>
-  <a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg" alt="nabeelsyed14" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nabeelsyed14" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nabeelsyed115@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
