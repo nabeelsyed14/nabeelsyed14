@@ -66,7 +66,7 @@ I am a **Computer Systems Engineering** student at **Middlesex University Dubai*
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/nabeelsyed14" target="blank">
+  <a href="https://https://www.linkedin.com/in/nabeel-syed-76687b26b/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nabeelsyed115@gmail.com" target="blank">
