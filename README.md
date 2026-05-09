@@ -17,11 +17,11 @@
 ---
 
 ### 🔭 About Me
-I am a **Computer Systems Engineering** student at **Middlesex University Dubai**, specializing in the intersection of **Embedded Systems** and **Machine Learning**. I design and deploy Edge AI solutions, sensor-driven automation, and full-stack IoT systems.
+I am a **Computer Systems Engineering** student at **Middlesex University Dubai**, specializing in the intersection of **Embedded Systems** and **Machine Learning**. I design and deploy Edge AI solutions, sensor-driven automation, and full-stack AI applications.
 
 - 🌱 Currently mastering **Edge AI** and **Hardware-Software Co-Design**.
 - 🔬 Researching **Vision-Grounding frameworks** to prevent AI hallucinations in IoT.
-- ⚡ Fun fact: I've built everything from smart meal trackers to autonomous room automation systems.
+- ⚡ Fun fact: I've built everything from personal knowledge graphs to autonomous room automation systems.
 
 ---
 
@@ -30,30 +30,39 @@ I am a **Computer Systems Engineering** student at **Middlesex University Dubai*
 | Category | Skills |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **AI & ML** | ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![LLM](https://img.shields.io/badge/Groq%20%7C%20Ollama%20%7C%20Gemini-blue?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/Edge%20AI-Optimization-green?style=for-the-badge) |
 | **Embedded & IoT** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internet-of-things&logoColor=white) |
-| **AI & ML** | ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-Integration-blue?style=for-the-badge) |
-| **Engineering Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB-Design-green?style=for-the-badge) ![3D Modeling](https://img.shields.io/badge/3D-Modeling-orange?style=for-the-badge) |
+| **Engineering Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB-Design-green?style=for-the-badge) |
 
 ---
 
 ### 🚀 Key Projects
 
+#### 🧠 [Recall - AI Knowledge Retention Hub](https://github.com/nabeelsyed14/recall)
+*Personal knowledge engine that turns digital content into queryable knowledge.*
+- **Core Tech:** React, FastAPI, Supabase, Groq (Llama 3.3 70B).
+- **Innovation:** Automated ingestion (YouTube/Articles), AI-generated quizzes, and a full-text search Knowledge Graph.
+- **Features:** Streaming "Chat with Content" and a markdown-based retention system.
+
+#### 🌌 [LuminaData - Privacy-First Data Intelligence](https://github.com/nabeelsyed14/lumina-data)
+*Professional AI platform for multi-dataset exploration and visualization.*
+- **Core Tech:** React (Vite), FastAPI, Ollama (Local AI) & Google Gemini.
+- **Innovation:** Cross-dataset Global Assistant and automated AI-driven chart generation (Matplotlib/Seaborn).
+- **Safety:** Sanitized Python sandbox for secure data analysis and hallucination prevention.
+
 #### 🍎 [NutriScale - IoT AI Smart Meal Tracker](https://github.com/nabeelsyed14/nutriscale)
 *Full-stack IoT system combining edge processing with vision-grounding AI.*
-- **Core Tech:** Raspberry Pi 5, HX711 Load Cell, Pi Camera, Flask.
+- **Core Tech:** Raspberry Pi 5, Pi Camera, Random Forest, Flask.
 - **Innovation:** Prevents AI hallucinations in nutritional tracking using a custom vision-grounding framework.
-- **ML:** Random Forest models for predicting metabolic health trends.
 
 #### 🧬 [BioSync - AI-Powered Mobile Health Companion](https://github.com/nabeelsyed14/biosync)
 *Context-aware health monitoring using multi-source data fusion.*
-- **Core Tech:** Capacitor, Kotlin, MQTT, Supabase.
-- **Innovation:** Integrates biometric (HRV, SpO2) and environmental data to calculate a **Vitality Index** (~94% accuracy).
-- **Architecture:** Privacy-first edge computing with controlled cloud sync.
+- **Core Tech:** Capacitor, MQTT, Supabase, Gradient Boosting.
+- **Innovation:** Multi-source data fusion (HRV, SpO2, Environmental) to calculate a **Vitality Index**.
 
 #### 💡 [LUMISHADE - Smart Room Automation](https://github.com/nabeelsyed14/lumishade)
 *Autonomous system for lighting and blinds based on real-time sensor processing.*
-- **Core Tech:** STM32 Nucleo-F429ZI, PIR & Ambient Light sensors.
-- **Performance:** Sub-2s response time with ultra-low power sleep modes.
+- **Core Tech:** STM32 Nucleo-F429ZI, Low-power sensor fusion.
 
 ---
 
@@ -66,7 +75,7 @@ I am a **Computer Systems Engineering** student at **Middlesex University Dubai*
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/nabeel-syed-76687b26b/" target="blank">
+  <a href="https://www.linkedin.com/in/nabeel-syed-76687b26b/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nabeelsyed115@gmail.com" target="blank">
