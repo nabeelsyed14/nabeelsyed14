@@ -114,7 +114,7 @@ The system identifies food items using AI while nutritional values are retrieved
 
 ---
 
-## [LuminaData — Local-First Data Intelligence Platform](https://github.com/nabeelsyed14/lumina-data)
+## [LuminaData — Local-First Data Intelligence Platform](https://github.com/nabeelsyed14/luminaData)
 
 **Solo Project**
 
@@ -155,7 +155,7 @@ Health monitoring platform combining wearable biometrics, environmental sensing,
 
 ---
 
-## [LumiShade — Smart Room Automation System](https://github.com/nabeelsyed14/lumishade)
+## [LumiShade — Smart Room Automation System]
 
 **Solo Project**
 
