@@ -27,25 +27,6 @@ Current areas of interest:
 - Embedded and edge computing
 - Human-centered engineering
 
-Currently building:
-
-### [Darj — Offline-First School Management System](https://github.com/nabeelsyed14/darj)
-
-A bilingual desktop platform designed for Indian government schools with unreliable or no internet access. Built to operate fully offline with local storage and zero cloud dependency.
-
----
-
-## Technical Stack
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Python, C++, JavaScript, TypeScript, Kotlin, MATLAB |
-| **AI / ML** | scikit-learn, Pandas, Ollama, Groq, Gemini API, OpenAI API |
-| **Embedded & IoT** | Raspberry Pi, STM32, Arduino, MQTT, GPIO, I2C, SPI |
-| **Backend** | FastAPI, Flask, Node.js, SQLite, PostgreSQL, Supabase |
-| **Frontend & Mobile** | React, React Native, Electron, Capacitor |
-| **Engineering Tools** | Git, Docker, Jupyter, MATLAB/Simulink, PCB Design |
-
 ---
 
 # Projects
