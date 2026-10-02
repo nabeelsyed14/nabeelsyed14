@@ -32,8 +32,23 @@ Current areas of interest:
 # Projects
 
 ---
+## [Spendly — Budget Tracker App](https://github.com/nabeelsyed14/spendly)
 
-## [Darj — Offline-First School Management System](https://github.com/nabeelsyed14/darj)
+**Solo Project · Android + PWA**
+
+Privacy-first personal finance tracker that runs entirely on-device. Tracks transactions, savings pots, budgets, and spending insights with no account, cloud, or network dependency.
+
+### Technical Highlights
+- Offline-first Dexie/IndexedDB data layer with live reactive queries
+- On-device analytics: spending velocity, anomaly detection, projections, habit patterns
+- Progressive Web App with installable mobile experience
+- Native Android build via Capacitor WebView
+- Themed glass UI with runtime palettes, dark mode, and animated charts
+
+
+`React` `Vite` `Tailwind CSS` `Dexie` `Capacitor` `PWA`
+---
+## [Darj — School Management System](https://github.com/nabeelsyed14/darj)
 
 **Solo Project**
 
